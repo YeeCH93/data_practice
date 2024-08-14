@@ -19,6 +19,7 @@ Python libraries in this repository
 ### Python
 
 - P1_HurricaneAnalysis
+- P2_ReggiesLinearRegression
 
 ### SQL
 
