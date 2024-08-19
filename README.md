@@ -20,6 +20,8 @@ Python libraries in this repository
 
 - P1_HurricaneAnalysis
 - P2_ReggiesLinearRegression
+- P3_PetalPowerInventory
+- P4_ABTestingForShoeFlyDotCom
 
 ### SQL
 
