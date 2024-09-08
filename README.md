@@ -22,6 +22,7 @@ Python libraries in this repository
 - P2_ReggiesLinearRegression
 - P3_PetalPowerInventory
 - P4_ABTestingForShoeFlyDotCom
+- P5_PageVisitFunnel
 
 ### SQL
 
