@@ -23,6 +23,7 @@ Python libraries in this repository
 - P3_PetalPowerInventory
 - P4_ABTestingForShoeFlyDotCom
 - P5_PageVisitFunnel
+- P6_ThisIsJeopardy
 
 ### SQL
 
