@@ -24,6 +24,7 @@ Python libraries in this repository
 - P4_ABTestingForShoeFlyDotCom
 - P5_PageVisitFunnel
 - P6_ThisIsJeopardy
+- P7_CensusVariables
 
 ### SQL
 
