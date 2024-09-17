@@ -26,6 +26,7 @@ Python libraries in this repository
 - P6_ThisIsJeopardy
 - P7_CensusVariables
 - P8_BasicEDA_DiagnosingDiabetes
+- P9_ExporingStudentData
 
 ### SQL
 
