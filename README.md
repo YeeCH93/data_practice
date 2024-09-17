@@ -25,6 +25,7 @@ Python libraries in this repository
 - P5_PageVisitFunnel
 - P6_ThisIsJeopardy
 - P7_CensusVariables
+- P8_BasicEDA_DiagnosingDiabetes
 
 ### SQL
 
