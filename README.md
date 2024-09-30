@@ -27,6 +27,7 @@ Python libraries in this repository
 - P7_CensusVariables
 - P8_BasicEDA_DiagnosingDiabetes
 - P9_ExporingStudentData
+- P10_NBATrends
 
 ### SQL
 
