@@ -29,6 +29,7 @@ Python libraries in this repository
 - P9_ExporingStudentData
 - P10_NBATrends
 - P11_SamplingDistributionDanceParty
+- P12_HeartDiseaseResearchPart1
 
 ### SQL
 
