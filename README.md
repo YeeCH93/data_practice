@@ -28,6 +28,7 @@ Python libraries in this repository
 - P8_BasicEDA_DiagnosingDiabetes
 - P9_ExporingStudentData
 - P10_NBATrends
+- P11_SamplingDistributionDanceParty
 
 ### SQL
 
