@@ -30,6 +30,7 @@ Python libraries in this repository
 - P10_NBATrends
 - P11_SamplingDistributionDanceParty
 - P12_HeartDiseaseResearchPart1
+- P13_LinearRegressionAtCodecademy
 
 ### SQL
 
