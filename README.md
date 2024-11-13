@@ -31,6 +31,7 @@ Python libraries in this repository
 - P11_SamplingDistributionDanceParty
 - P12_HeartDiseaseResearchPart1
 - P13_LinearRegressionAtCodecademy
+- P14_SublimeLimesLineGraphs
 
 ### SQL
 
