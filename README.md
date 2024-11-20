@@ -35,6 +35,7 @@ Python libraries in this repository
 - P15_BarChartWithError
 - P16_SideBySideBars
 - P17_StackedBars
+- P18_Histograms
 
 ### SQL
 
