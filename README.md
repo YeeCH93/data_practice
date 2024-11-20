@@ -33,6 +33,8 @@ Python libraries in this repository
 - P13_LinearRegressionAtCodecademy
 - P14_SublimeLimesLineGraphs
 - P15_BarChartWithError
+- P16_SideBySideBars
+- P17_StackedBars
 
 ### SQL
 
