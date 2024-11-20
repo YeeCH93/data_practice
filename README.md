@@ -32,6 +32,7 @@ Python libraries in this repository
 - P12_HeartDiseaseResearchPart1
 - P13_LinearRegressionAtCodecademy
 - P14_SublimeLimesLineGraphs
+- P15_BarChartWithError
 
 ### SQL
 
