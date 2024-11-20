@@ -37,6 +37,7 @@ Python libraries in this repository
 - P17_StackedBars
 - P18_Histograms
 - P19_LabeledPieChart
+- P20_LineWithShadedError
 
 ### SQL
 
