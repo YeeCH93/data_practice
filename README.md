@@ -36,6 +36,7 @@ Python libraries in this repository
 - P16_SideBySideBars
 - P17_StackedBars
 - P18_Histograms
+- P19_LabeledPieChart
 
 ### SQL
 
