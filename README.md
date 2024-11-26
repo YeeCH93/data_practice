@@ -38,6 +38,7 @@ Python libraries in this repository
 - P18_Histograms
 - P19_LabeledPieChart
 - P20_LineWithShadedError
+- P21_ExploringMushrooms
 
 ### SQL
 
