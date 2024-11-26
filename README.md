@@ -39,6 +39,7 @@ Python libraries in this repository
 - P19_LabeledPieChart
 - P20_LineWithShadedError
 - P21_ExploringMushrooms
+- P22_AirlineAnalysis
 
 ### SQL
 
